@@ -1,5 +1,7 @@
 # tdd-demo
-A tIc-tac-toe game, for the TDD demo
+### A tIc-tac-toe game, for the TDD demo
+
+### Think - Red - Green - Refactor - Repeat
 
 The order of the user story can be found from the test class ```TicTacToeSpec```
 
